@@ -1,5 +1,5 @@
-#ifndef _SYSTEM_DAEMONIZER_HPP_
-#define _SYSTEM_DAEMONIZER_HPP_
+#ifndef _SYSTEM_LOGGER_HPP_
+#define _SYSTEM_LOGGER_HPP_
 
 #include <iostream>
 #include <vector>
